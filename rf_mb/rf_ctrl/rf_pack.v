@@ -26,7 +26,7 @@ module rf_pack (
     input   [7:0]   i_chk_mode          ,
 
     input           i_init              ,
-    input           i_stop              ,
+    input           i_stop              ,//kcjidaohsugbyiefnwodpk[]ioq
 
     output  [7:0]   o_rf_data           ,
     output          o_rf_vld            ,
